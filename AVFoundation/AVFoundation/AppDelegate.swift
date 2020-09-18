@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  PitchPerfect
-//
-//  Created by Francisco Soriano on 8/21/20.
-//  Copyright © 2020 Mad Gorilla Studio. All rights reserved.
-//
+
 
 import UIKit
 
